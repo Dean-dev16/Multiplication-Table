@@ -15,22 +15,6 @@ The program asks the user for a number and prints the multiplication table for t
 * C#
 * .NET Console Application
 
-##  How to Run
-
-1. Clone this repository:
-
-```
-git clone https://github.com/your-username/your-repository-name.git
-```
-
-2. Open the project in **Visual Studio** or **VS Code**.
-
-3. Run the program.
-
-4. Enter a number when prompted.
-
-The program will display the multiplication table for that number.
-
 ##  Example Output
 
 ```
